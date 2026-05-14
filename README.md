@@ -7,6 +7,6 @@ MFA candidate at California Institute of the Arts currently residing in Valencia
 * PdMaxCon25~. Urbana-Champaign, Illinois.
 * Performing Media Festival 2025. South Bend, Indiana.
 * Bleep / Blorp 25. Lowell, Massachusetts.
-* * CalArts Expo, 2026. Stevenson Ranch, California.
+* CalArts Expo, 2026. Stevenson Ranch, California.
 
 <i> Last Updated: 13 May 2026 </i>
