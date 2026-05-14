@@ -1,5 +1,6 @@
-I mostly use Max/MSP for making music.
+I use Max/MSP, P5JS, Open Frameworks, ChucK.
 
-My YouTube channel, alongside my personal website, has most of my music.
+Pianist, composer @ California Institute of the Arts
 
-https://www.youtube.com/@castronaut2000
+Valencia, CA.
+
