@@ -1,5 +1,5 @@
 # About me
-MFA candidate at California Institute of the Arts currently residing in Valencia, CA. I have used <b>Max/MSP</b>, P5JS, Open Frameworks, ChucK. Other interests include musical improvisation and composition. Avid e-bike user.
+MFA candidate at California Institute of the Arts currently residing in Valencia, CA. I have used <b>Max/MSP</b>, p5.js, Open Frameworks, ChucK. Other interests include musical improvisation and composition. Avid e-bike user.
 
 ### Music Tech events I have participated in include—
 
