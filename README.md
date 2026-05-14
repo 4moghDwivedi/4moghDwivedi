@@ -1,6 +1,8 @@
-I use Max/MSP, P5JS, Open Frameworks, ChucK.
+# Hello
+MFA candidate at California Institute of the Arts currently residing in Valencia, CA. I use <b>Max/MSP</b>, P5JS, Open Frameworks, ChucK. Other interests include musical improvisation and composition. Avid e-bike user.
 
-Pianist, composer @ California Institute of the Arts
+* International Computer Music Conference 2025. Boston, Massachusetts.
+* PdMaxCon25~. Urbana-Champaign, Illinois.
+* Performing Media Festival 2025. South Bend, Indiana.
 
-Valencia, CA.
-
+<i> Last Updated: 13 May 2026 </i>
